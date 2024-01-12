@@ -14,5 +14,5 @@ Projeto criado [nesse vídeo](https://youtu.be/EQ5EwIYsgIE) que apresenta um aul
 
 ## Tecnologias
 
-[Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-[OAuth2](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
+- [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+- [OAuth2](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)

@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 378512487582-g8l9in73fk3liu9b2vvenuav1tff0gc0.apps.googleusercontent.com
+            client-secret: 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
+      resourceserver:
+       jwt:
+        issuer-uri: https://accounts.google.com
